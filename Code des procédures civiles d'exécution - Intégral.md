@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -11994,7 +11994,7 @@ Les délais prévus par les articles R. 321-1, R. 321-6, R. 322-6, R. 322-10 et 
 mois prévus par l'article R. 322-4 sont prescrits à peine de caducité du commandement de payer valant saisie. 
 
 Toute partie intéressée peut demander au juge de l'exécution de déclarer la caducité et d'ordonner, en tant que de besoin,
-qu'il en soit fait mention en marge de la copie du commandement publié au bureau des hypothèques. 
+qu'il en soit fait mention en marge de la copie du commandement publié au fichier immobilier. 
 
 Il n'est pas fait droit à la demande si le créancier poursuivant justifie d'un motif légitime. 
 
@@ -12004,13 +12004,13 @@ mesure d'invoquer en temps utile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 12 (Ab)
+	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -12018,9 +12018,10 @@ mesure d'invoquer en temps utile.
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R321-1 (V)
-	  - Code des procédures civiles d'exécution - art. R322-31 (V)
-	  - Code des procédures civiles d'exécution - art. R322-6 (V)
+	  - Code des procédures civiles d'exécution - art. R321-1
+	  - Code des procédures civiles d'exécution - art. R322-31
+	  - Code des procédures civiles d'exécution - art. R322-4
+	  - Code des procédures civiles d'exécution - art. R322-6
 
 
 ### TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE
@@ -12071,73 +12072,69 @@ dénoncé à son conjoint, au plus tard le premier jour ouvrable suivant la sign
 
 ###### Article R321-2
 
-Lorsque la saisie porte sur des immeubles situés dans le ressort de plusieurs bureaux des hypothèques, il est établi un
-commandement de payer par ressort.
+Lorsque la saisie porte sur des immeubles situés dans le ressort de plusieurs services de la publicité foncière, il est
+établi un commandement de payer par ressort.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 14 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ###### Article R321-3
 
-Outre les mentions prescrites pour les actes d'huissier de justice, le commandement de payer valant saisie comporte :
+Outre les mentions prescrites pour les actes d'huissier de justice, le commandement de payer valant saisie comporte : 
 
-1° La constitution d'avocat du créancier poursuivant, laquelle emporte élection de domicile ;
+1° La constitution d'avocat du créancier poursuivant, laquelle emporte élection de domicile ; 
 
-2° L'indication de la date et de la nature du titre exécutoire en vertu duquel le commandement est délivré ;
+2° L'indication de la date et de la nature du titre exécutoire en vertu duquel le commandement est délivré ; 
 
 3° Le décompte des sommes réclamées en principal, frais et intérêts échus ainsi que l'indication du taux des intérêts
-moratoires ;
+moratoires ; 
 
 4° L'avertissement que le débiteur doit payer ces sommes dans un délai de huit jours, qu'à défaut de paiement, la procédure à
 fin de vente de l'immeuble se poursuivra et qu'à cet effet, le débiteur sera assigné à comparaître à une audience du juge de
-l'exécution pour voir statuer sur les modalités de la procédure ;
+l'exécution pour voir statuer sur les modalités de la procédure ; 
 
 5° La désignation de chacun des biens ou droits sur lesquels porte la saisie immobilière, telle qu'exigée par les règles de
-la publicité foncière ;
+la publicité foncière ; 
 
 6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter
-de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au bureau des hypothèques ;
+de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci   au fichier immobilier ; 
 
-7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ;
+7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ; 
 
 8° L'indication que le débiteur garde la possibilité de rechercher un acquéreur de l'immeuble saisi pour procéder à sa vente
 amiable ou de donner mandat à cet effet et la mention que cette vente ne pourra néanmoins être conclue qu'après autorisation
-du juge de l'exécution ;
+du juge de l'exécution ; 
 
 9° La sommation, lorsque le bien fait l'objet d'un bail, d'avoir à indiquer à l'huissier de justice les nom, prénom et
-adresse du preneur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ;
+adresse du preneur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ; 
 
 10° L'indication qu'un huissier de justice pourra pénétrer dans les lieux afin de dresser un procès-verbal de description de
-l'immeuble ;
+l'immeuble ; 
 
 11° L'indication du juge de l'exécution territorialement compétent pour connaître de la procédure de saisie et des
-contestations et demandes incidentes y afférentes ;
+contestations et demandes incidentes y afférentes ; 
 
 12° L'indication que le débiteur qui en fait préalablement la demande peut bénéficier, pour la procédure de saisie, de l'aide
 juridictionnelle s'il remplit les conditions de ressources prévues par la loi n° 91-647 du 10 juillet 1991 relative à l'aide
-juridique et le décret n° 91-1266 du 19 décembre 1991 portant application de cette loi ;
+juridique et le décret n° 91-1266 du 19 décembre 1991 portant application de cette loi ; 
 
 13° L'indication, si le débiteur est une personne physique, que s'il s'estime en situation de surendettement, il a la faculté
-de saisir la commission de surendettement des particuliers instituée par l'article L. 331-1 du code de la consommation.
+de saisir la commission de surendettement des particuliers instituée par l'article L. 331-1 du code de la consommation. 
 
 Si le créancier saisissant agit en vertu d'une transmission, à quelque titre que ce soit, de la créance contenue dans le
 titre exécutoire fondant les poursuites, le commandement vise l'acte de transmission à moins que le débiteur n'en ait été
-régulièrement avisé au préalable.
+régulièrement avisé au préalable. 
 
 Lorsque le commandement de payer valant saisie est signifié à la personne qui a consenti une hypothèque sur l'un de ses biens
-pour garantir la dette d'un tiers, le délai de sommation prévu au 4° est porté à un mois.
+pour garantir la dette d'un tiers, le délai de sommation prévu au 4° est porté à un mois. 
 
 Les mentions prévues au présent article sont prescrites à peine de nullité. Toutefois, la nullité n'est pas encourue au motif
 que les sommes réclamées sont supérieures à celles qui sont dues au créancier.
@@ -12146,21 +12143,17 @@ que les sommes réclamées sont supérieures à celles qui sont dues au créanci
 
 	**Cite**:
 
-	  - Loi n°91-647 du 10 juillet 1991 (V)
-	  - Décret n°91-1266 du 19 décembre 1991 (V)
-	  - Code de la consommation - art. L331-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 15 (Ab)
+	  - Loi n°91-647 du 10 juillet 1991
+	  - Décret n°91-1266 du 19 décembre 1991
+	  - Code de la consommation - art. L331-1
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -12241,18 +12234,18 @@ du code civil.
 
 ###### Article R321-6
 
-Le commandement de payer valant saisie est publié au bureau des hypothèques du lieu de situation de l'immeuble dans un délai
-de deux mois à compter de sa signification.
+Le commandement de payer valant saisie est publié au fichier immobilier dans un délai de deux mois à compter de sa
+signification.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 18 (Ab)
+	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -12266,30 +12259,30 @@ de deux mois à compter de sa signification.
 Les formalités de publicité sont régies par le décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière et
 le décret n° 55-1350 du 14 octobre 1955 pris pour l'application de ce décret. 
 
-Lorsque l'exécution de la formalité de publication a été retardée en raison d'un rejet notifié par le conservateur des
-hypothèques, le délai de deux mois prévu à l'article R. 321-6 est augmenté du nombre de jours écoulés entre le dépôt du
-commandement au bureau des hypothèques et l'exécution de la formalité. La date du dépôt est constatée au registre prévu à
-l'article 2453 du code civil. 
+Lorsque l'exécution de la formalité de publication a été retardée en raison d'un rejet notifié par le service de la publicité
+foncière, le délai de deux mois prévu à l'article R. 321-6 est augmenté du nombre de jours écoulés entre le dépôt du
+commandement à ce service et l'exécution de la formalité. La date du dépôt est constatée au registre prévu à l'article 2453
+du code civil. 
 
-S'il est dans l'impossibilité d'y procéder à l'instant de la réquisition, le conservateur fait mention, sur le commandement
-qui lui est déposé, de la date du dépôt.
+S'il est dans l'impossibilité d'y procéder à l'instant de la réquisition, le service de la publicité foncière fait mention,
+sur le commandement qui lui est déposé, de la date du dépôt.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°55-22 du 4 janvier 1955 (V)
-	  - Décret n°55-1350 du 14 octobre 1955 (V)
-	  - Code civil - art. 2453 (VT)
-	  - Code des procédures civiles d'exécution - art. R321-6 (V)
+	  - Décret n°55-22 du 4 janvier 1955
+	  - Décret n°55-1350 du 14 octobre 1955
+	  - Code civil - art. 2453
+	  - Code des procédures civiles d'exécution - art. R321-6
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 19 (Ab)
+	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -12329,31 +12322,27 @@ créance en principal est la plus élevée.
 Lorsqu'un commandement de payer valant saisie a déjà été publié, il n'y a pas lieu de publier un nouveau commandement relatif
 au même bien. 
 
-Toutefois, si le nouveau commandement présenté au bureau des hypothèques comprend plus d'immeubles que le précédent, il est
-publié pour les biens non compris dans celui-ci. Le nouveau créancier poursuivant est tenu de dénoncer le commandement publié
-au précédent créancier qui poursuivra les deux procédures si elles sont au même état ; dans le cas contraire, ce dernier
-suspend sa propre poursuite et suit la nouvelle procédure jusqu'à ce qu'elle soit au même état. 
+Toutefois, si le nouveau commandement présenté au service de la publicité foncière comprend plus d'immeubles que le
+précédent, il est publié pour les biens non compris dans celui-ci. Le nouveau créancier poursuivant est tenu de dénoncer le
+commandement publié au précédent créancier qui poursuivra les deux procédures si elles sont au même état ; dans le cas
+contraire, ce dernier suspend sa propre poursuite et suit la nouvelle procédure jusqu'à ce qu'elle soit au même état. 
 
 Faute pour le précédent créancier de poursuivre la nouvelle saisie à lui dénoncée, le nouveau créancier peut demander la
 subrogation dans les conditions fixées à l'article R. 311-9.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 21 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R311-9 (V)
+	  - Code des procédures civiles d'exécution - art. R311-9
 
 	**Cité par**:
 
@@ -12362,7 +12351,7 @@ subrogation dans les conditions fixées à l'article R. 311-9.
 
 ###### Article R321-10
 
-Dans les cas prévus à l'article R. 321-8 et au premier alinéa de l'article R. 321-9, le conservateur des hypothèques
+Dans les cas prévus à l'article R. 321-8 et au premier alinéa de l'article R. 321-9, le service de la publicité foncière
 mentionne le ou les actes qui ne sont pas publiés en marge de la copie du précédent commandement publié dans l'ordre de leur
 présentation, avec les nom, prénom et domicile du ou des nouveaux poursuivants ou, s'il s'agit d'une personne morale, sa
 dénomination et son siège social ainsi que l'indication de l'avocat qui le ou les représente. 
@@ -12375,22 +12364,18 @@ La radiation de la saisie ne peut être opérée sans le consentement des créan
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 22 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R321-8 (V)
-	  - Code des procédures civiles d'exécution - art. R321-9 (V)
+	  - Code des procédures civiles d'exécution - art. R321-8
+	  - Code des procédures civiles d'exécution - art. R321-9
 
 	**Cité par**:
 
@@ -12671,21 +12656,17 @@ janvier 1955 portant réforme de la publicité foncière.
 
 A l'expiration du délai prévu à l'article R. 321-20 et jusqu'à la publication du titre de vente, toute partie intéressée peut
 demander au juge de l'exécution de constater la péremption du commandement et d'ordonner la mention de celle-ci en marge de
-la copie du commandement publié au bureau des hypothèques.
+la copie du commandement publié   au fichier immobilier.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 33 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -12693,7 +12674,7 @@ la copie du commandement publié au bureau des hypothèques.
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R321-20 (V)
+	  - Code des procédures civiles d'exécution - art. R321-20
 
 
 ###### Article R321-22
@@ -12821,24 +12802,20 @@ qualifié en cas de nécessité.
 
 ###### Article R322-4
 
-Dans les deux mois qui suivent la publication au bureau des hypothèques du commandement de payer valant saisie, le créancier
-poursuivant assigne le débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation.
+Dans les deux mois qui suivent la publication   au fichier immobilier du commandement de payer valant saisie, le créancier
+poursuivant assigne le débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation. 
 
 L'assignation est délivrée dans un délai compris entre un et trois mois avant la date de l'audience.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 38 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -13009,24 +12986,20 @@ défaut, au domicile du défunt.
 ###### Article R322-9
 
 La mention de la délivrance de l'assignation et des dénonciations est portée en marge de la copie du commandement de payer
-valant saisie publiée au bureau des hypothèques dans les huit jours de la dernière signification en date.
+valant saisie publiée   au fichier immobilier dans les huit jours de la dernière signification en date. 
 
 Du jour de cette mention, l'inscription du commandement ne peut plus être radiée que du consentement de tous les créanciers
 inscrits ou en vertu d'un jugement qui leur soit opposable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 43 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -13489,7 +13462,7 @@ radiation des inscriptions d'hypothèque et de privilège prises du chef du déb
 
 Le jugement ainsi rendu n'est pas susceptible d'appel. 
 
-Le conservateur des hypothèques qui procède à la publication du jugement en fait mention en marge de la publication de la
+Le service de la publicité foncière qui procède à la publication du jugement en fait mention en marge de la publication de la
 copie du commandement et procède aux radiations des inscriptions correspondantes. 
 
 A défaut de pouvoir constater la vente amiable, le juge ordonne la vente forcée dans les conditions prévues aux troisième et
@@ -13497,21 +13470,17 @@ quatrième alinéas de l'article R. 322-22.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 58 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R322-22 (V)
+	  - Code des procédures civiles d'exécution - art. R322-22
 
 
 ##### Section 4 : La vente par adjudication
@@ -14576,22 +14545,18 @@ La quittance du paiement des frais est annexée au titre de vente.
 
 ###### Article R322-63
 
-Le titre de vente est publié au bureau des hypothèques selon les règles prévues pour les ventes judiciaires, à la requête de
+Le titre de vente est publié   au fichier immobilier selon les règles prévues pour les ventes judiciaires, à la requête de
 l'acquéreur ou, à son défaut, du créancier poursuivant la distribution.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 91 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ##### Sous-section 7 : Les effets de l'adjudication
@@ -14626,23 +14591,19 @@ lui soit opposable à compter du versement du prix ou de sa consignation et du p
 ###### Article R322-65
 
 Sur requête de l'adjudicataire, le juge de l'exécution, qui constate la purge des hypothèques et privilèges pris sur
-l'immeuble du chef du débiteur, ordonne la radiation des inscriptions correspondantes au bureau des hypothèques.
+l'immeuble du chef du débiteur, ordonne la radiation des inscriptions correspondantes   au fichier immobilier. 
 
 L'ordonnance n'est pas susceptible d'appel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 93 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ##### Sous-section 8 : La réitération des enchères
@@ -17684,23 +17645,19 @@ appartenant au débiteur.
 
 ###### Article R532-1
 
-L'inscription provisoire d'hypothèque est opérée par le dépôt au bureau des hypothèques de deux bordereaux dans les
+L'inscription provisoire d'hypothèque est opérée par le dépôt au service de la publicité foncière de deux bordereaux dans les
 conditions prévues par l'article 2428 du code civil. Elle contient, en outre, l'indication du capital de la créance et de ses
 accessoires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 251 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -17710,7 +17667,7 @@ accessoires.
 
 	**Cite**:
 
-	  - Code civil - art. 2428 (M)
+	  - Code civil - art. 2428
 
 
 ###### Article R532-2
@@ -17988,28 +17945,26 @@ la formalité initiale, dans la limite des sommes conservées par cette dernièr
 ###### Article R533-2
 
 La publicité définitive est opérée, pour l'hypothèque, conformément à l'article 2428 du code civil et, pour le nantissement
-du fonds de commerce, conformément aux articles L. 143-16 et R. 143-6 et suivants du code de commerce.
+du fonds de commerce, conformément aux articles L. 143-16 et R. 143-6 et suivants du code de commerce. 
 
-Il n'est dû qu'un seul salaire ou émolument pour les inscriptions provisoire et définitive.
+Il n'est dû qu'un seul émolument ou qu'une seule contribution de sécurité immobilière prévue à l'article 879 du code général
+des impôts pour les inscriptions provisoire et définitive.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 261 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cite**:
 
-	  - Code de commerce - art. L143-16 (V)
-	  - Code civil - art. 2428 (M)
+	  - Code de commerce - art. L143-16
+	  - Code général des impôts, CGI. - art. 879
+	  - Code civil - art. 2428
 
 	**Cité par**:
 
@@ -18293,7 +18248,7 @@ du 14 octobre 1955 pris pour l'application de ce décret s'entendent de la réf�
 livre V du code civil et au décret n° 2008-1086 du 23 octobre 2008 relatif à l'immatriculation et à l'inscription des droits
 en matière immobilière à Mayotte ;
 
-2° Les références faites au bureau des hypothèques et au conservateur des hypothèques s'entendent respectivement des
+2° Les références faites au service de la publicité foncière et au fichier immobilier s'entendent respectivement des
 références faites au service de la conservation de la propriété immobilière et au conservateur de la propriété immobilière ;
 
 3° La référence faite au registre prévu à l'article 2453 du code civil s'entend de la référence faite au registre des dépôts
@@ -18306,22 +18261,18 @@ d'annonces légales diffusés dans le Département de Mayotte.
 
 	**Cite**:
 
-	  - Décret n°55-22 du 4 janvier 1955 (V)
-	  - Décret n°55-1350 du 14 octobre 1955 (V)
-	  - Décret n°2008-1086  du 23 octobre 2008 (V)
-	  - Code civil - art. 2453 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 167 al. 9 à 11 et 13 (Ab)
+	  - Décret n°55-22 du 4 janvier 1955
+	  - Décret n°55-1350 du 14 octobre 1955
+	  - Décret n°2008-1086 du 23 octobre 2008
+	  - Code civil - art. 2453
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ###### Article R612-6
@@ -18368,6 +18319,30 @@ l'article L. 334-1 de ce même code.
 	  - Code de la consommation - art. L331-1
 	  - Code de la consommation - art. L334-1
 	  - Code des procédures civiles d'exécution - art. R321-3
+
+
+###### Article R612-8
+
+Pour l'application du second alinéa de l'article R. 533-2, la référence à la contribution de sécurité immobilière prévue à
+l'article 879 du code général des impôts est remplacée par la référence aux frais des inscriptions prévus à l'article 89 du
+décret n° 2008-1086 du 23 octobre 2008 relatif à l'immatriculation et à l'inscription des droits en matière immobilière à
+Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 89
+	  - Code général des impôts, CGI. - art. 879
+	  - Code des procédures civiles d'exécution - art. R533-2
+
+	**Codifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN
