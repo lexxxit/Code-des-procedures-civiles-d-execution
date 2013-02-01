@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-02-02
 
 # Partie législative
 
@@ -5503,33 +5503,29 @@ l'indication qu'elle exerce une activité de recouvrement amiable ;
 2° Les nom ou dénomination sociale du créancier, son adresse ou son siège social ; 
 
 3° Le fondement et le montant de la somme due en principal, intérêts et autres accessoires, en distinguant les différents
-éléments de la dette, à l'exclusion des frais qui restent à la charge du créancier en application du troisième alinéa de
-l'article L. 111-8; 
+éléments de la dette, à l'exclusion des  frais qui restent à la charge du créancier en application du troisième alinéa de
+l'article L. 111-8 ;
 
 4° L'indication d'avoir à payer la somme due et les modalités de paiement de la dette ; 
 
-5° La reproduction des troisième et quatrième alinéas de l'article L. 111-8. 
+5° La reproduction des deuxième et troisième alinéas alinéas de l'article L. 111-8. 
 
 Les références et date d'envoi de la lettre mentionnée au premier alinéa sont rappelées à l'occasion de toute autre démarche
 auprès du débiteur en vue du recouvrement amiable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-1112 du 18 décembre 1996 - art. 4 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2013-109 du 30 janvier 2013 - art. 7
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L111-8 (V)
+	  - Code des procédures civiles d'exécution - art. L111-8
 
 	**Cité par**:
 
@@ -8447,7 +8443,7 @@ paiement du prix.
 
 ###### Article R221-31
 
-L'information prévue au troisième alinéa de l'article L. 221-1 est faite par écrit et comporte le nom et l'adresse de
+L'information prévue au troisième alinéa de l'article L. 221-3 est faite par écrit et comporte le nom et l'adresse de
 l'acquéreur éventuel ainsi que le délai dans lequel ce dernier s'offre à verser le prix proposé. 
 
 L'huissier de justice communique ces indications au créancier saisissant et aux créanciers opposants par lettre recommandée
@@ -8460,17 +8456,13 @@ l'article R. 221-30, augmenté s'il y a lieu du délai de quinze jours imparti a
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 108 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2013-109 du 30 janvier 2013 - art. 7
 
 	**Cité par**:
 
@@ -8479,8 +8471,8 @@ l'article R. 221-30, augmenté s'il y a lieu du délai de quinze jours imparti a
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L221-1 (V)
-	  - Code des procédures civiles d'exécution - art. R221-30 (V)
+	  - Code des procédures civiles d'exécution - art. L221-3
+	  - Code des procédures civiles d'exécution - art. R221-30
 
 
 ###### Article R221-32
