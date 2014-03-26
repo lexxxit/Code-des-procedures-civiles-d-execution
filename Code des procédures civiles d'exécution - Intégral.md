@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -2931,23 +2931,19 @@ Moselle.
 
 ###### Article L411-1
 
-Sauf disposition spéciale, l'expulsion ou l'évacuation d'un immeuble ou d'un lieu habité ne peut être poursuivie qu'en vertu
-d'une décision de justice ou d'un procès-verbal de conciliation exécutoire et après signification d'un commandement d'avoir à
-libérer les locaux.
+Sauf disposition spéciale, l'expulsion d'un immeuble ou d'un lieu habité ne peut être poursuivie qu'en vertu d'une décision
+de justice ou d'un procès-verbal de conciliation exécutoire et après signification d'un commandement d'avoir à libérer les
+locaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 61 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2014-366 du 24 mars 2014 - art. 89
 
 	**Cité par**:
 
@@ -3077,11 +3073,14 @@ de la construction et de l'habitation n'a pas été suivie d'effet du fait du lo
 
 ###### Article L412-4
 
-La durée des délais prévus à l'article L. 412-3 ne peut, en aucun cas, être inférieure à un mois ni supérieure à un an. Pour
-la fixation de ces délais, il est tenu compte de la bonne ou mauvaise volonté manifestée par l'occupant dans l'exécution de
-ses obligations, des situations respectives du propriétaire et de l'occupant, notamment en ce qui concerne l'âge, l'état de
-santé, la qualité de sinistré par faits de guerre, la situation de famille ou de fortune de chacun d'eux, les circonstances
-atmosphériques, ainsi que des diligences que l'occupant justifie avoir faites en vue de son relogement.
+La durée des délais prévus à l'article L. 412-3 ne peut, en aucun cas, être inférieure à trois mois ni supérieure à trois
+ans. Pour la fixation de ces délais, il est tenu compte de la bonne ou mauvaise volonté manifestée par l'occupant dans
+l'exécution de ses obligations, des situations respectives du propriétaire et de l'occupant, notamment en ce qui concerne
+l'âge, l'état de santé, la qualité de sinistré par faits de guerre, la situation de famille ou de fortune de chacun d'eux,
+les circonstances atmosphériques, ainsi que des diligences que l'occupant justifie avoir faites en vue de son relogement. Il
+est également tenu compte du droit à un logement décent et indépendant, des délais liés aux recours engagés selon les
+modalités prévues aux articles L. 441-2-3 et L. 441-2-3-1 du code de la construction et de l'habitation et du délai
+prévisible de relogement des intéressés.
 
 **Liens relatifs à cet article**
 
@@ -3089,32 +3088,34 @@ atmosphériques, ainsi que des diligences que l'occupant justifie avoir faites e
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. L613-2 (VT)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L412-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
+	  - Code des procédures civiles d'exécution - art. L412-3
 
 
 ###### Article L412-5
 
 Dès le commandement d'avoir à libérer les locaux, l'huissier de justice chargé de l'exécution de la mesure d'expulsion en
-informe le représentant de l'Etat dans le département en vue de la prise en compte de la demande de relogement de l'occupant
-dans le cadre du plan départemental d'action pour le logement des personnes défavorisées prévu par la loi n° 90-449 du 31 mai
-1990 visant à la mise en œuvre du droit au logement. A défaut, le délai avant l'expiration duquel l'expulsion ne peut avoir
-lieu est suspendu.
+saisit le représentant de l'Etat dans le département afin que celui-ci en informe la commission de coordination des actions
+de prévention des expulsions locatives prévue à l'article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du
+droit au logement, et qu'il informe le ménage locataire de la possibilité de saisir la commission de médiation en vue d'une
+demande de relogement au titre du droit au logement opposable. A défaut de saisine du représentant de l'Etat dans le
+département par l'huissier, le délai avant l'expiration duquel l'expulsion ne peut avoir lieu est suspendu. 
+
+La saisine du représentant de l'Etat dans le département par l'huissier et l'information de la commission de coordination des
+actions de prévention des expulsions locatives par le représentant de l'Etat dans le département peuvent s'effectuer par voie
+électronique, selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
 	**Cité par**:
 
@@ -3124,29 +3125,20 @@ lieu est suspendu.
 	  - Code des procédures civiles d'exécution - art. L641-7 (VD)
 	  - Code des procédures civiles d'exécution - art. R412-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 62 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2014-366 du 24 mars 2014 - art. 28
 
 
 ###### Article L412-6
 
 Nonobstant toute décision d'expulsion passée en force de chose jugée et malgré l'expiration des délais accordés en vertu de
 l'article L. 412-3, il est sursis à toute mesure d'expulsion non exécutée à la date du 1er novembre de chaque année jusqu'au
-15 mars de l'année suivante, à moins que le relogement des intéressés soit assuré dans des conditions suffisantes respectant
+31 mars de l'année suivante, à moins que le relogement des intéressés soit assuré dans des conditions suffisantes respectant
 l'unité et les besoins de la famille. 
 
-Les dispositions du premier alinéa ne sont toutefois pas applicables lorsque les personnes dont l'expulsion a été ordonnée
-sont entrées dans les locaux par voie de fait ou lorsque ceux-ci sont situés dans un immeuble ayant fait l'objet d'un arrêté
-de péril.
+Toutefois, le juge peut supprimer le bénéfice du sursis prévu au premier alinéa lorsque les personnes dont l'expulsion a été
+ordonnée sont entrées dans les locaux par voie de fait.
 
 **Liens relatifs à cet article**
 
@@ -3154,13 +3146,9 @@ de péril.
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. L613-3 (VT)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 25
 
 	**Cité par**:
 
@@ -3172,7 +3160,7 @@ de péril.
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L412-3 (VD)
+	  - Code des procédures civiles d'exécution - art. L412-3
 
 
 ###### Article L412-7
