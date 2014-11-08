@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-11-09
 
 # Partie législative
 
@@ -5230,19 +5230,17 @@ Le sursis à exécution n'est accordé que s'il existe des moyens sérieux d'ann
 L'auteur d'une demande de sursis à exécution manifestement abusive peut être condamné par le premier président à une amende
 civile d'un montant maximum de 3 000 €, sans préjudice des dommages-intérêts qui pourraient être réclamés.
 
+La décision du premier président n'est pas susceptible de pourvoi.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 23
 
 	**Cité par**:
 
