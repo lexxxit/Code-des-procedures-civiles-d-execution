@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2014-11-09
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -82,7 +82,7 @@ Seuls constituent des titres exécutoires :
 que les accords auxquels ces juridictions ont conféré force exécutoire ;
 
 2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non
-susceptible d'un recours suspensif d'exécution ;
+susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables  ;
 
 3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ;
 
@@ -95,9 +95,9 @@ la loi attache les effets d'un jugement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 3 (VT)
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
 	**Cité par**:
 
@@ -114,13 +114,9 @@ la loi attache les effets d'un jugement.
 	  - Code des procédures civiles d'exécution - art. L111-4 (VD)
 	  - Code général des collectivités territoriales - art. D1611-24 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
 
 ###### Article L111-4
@@ -1028,10 +1024,10 @@ consignations et à ses préposés.
 Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
 secret en matière de statistiques, les administrations de l'Etat, des régions, des départements et des communes, les
 entreprises concédées ou contrôlées par l'Etat, les régions, les départements et les communes, les établissements publics ou
-organismes contrôlés par l'autorité administrative doivent communiquer à l'huissier de justice chargé de l'exécution, porteur
-d'un titre exécutoire, les renseignements qu'ils détiennent permettant de déterminer l'adresse du débiteur, l'identité et
-l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de sommes liquides ou exigibles et la composition de son
-patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir opposer le secret professionnel.
+organismes contrôlés par l'autorité administrative doivent communiquer à l'huissier de justice chargé de l'exécution
+les renseignements qu'ils détiennent permettant de déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur
+ou de tout tiers débiteur ou dépositaire de sommes liquides ou exigibles et la composition de son patrimoine immobilier, à
+l'exclusion de tout autre renseignement, sans pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -1039,17 +1035,13 @@ patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir 
 
 	  - Loi n°51-711 du 7 juin 1951 - art. 6
 
-	**Anciens textes**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 39 (VT)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -1060,30 +1052,25 @@ patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir 
 	  - Code des procédures civiles d'exécution - art. L612-2 (VD)
 	  - Code des procédures civiles d'exécution - art. R152-1 (V)
 	  - Livre des procédures fiscales - art. L132 A (V)
-	  - Livre des procédures fiscales - art. L151 A (M)
+	  - Livre des procédures fiscales - art. L151 A (V)
 	  - Livre des procédures fiscales - art. L162 A (V)
 
 
 ###### Article L152-2
 
 Les établissements habilités par la loi à tenir des comptes de dépôt doivent indiquer à l'huissier de justice chargé de
-l'exécution, porteur d'un titre exécutoire, si un ou plusieurs comptes, comptes joints ou fusionnés sont ouverts au nom du
-débiteur ainsi que les lieux où sont tenus les comptes, à l'exclusion de tout autre renseignement, sans pouvoir opposer le
-secret professionnel.
+l'exécution        si un ou plusieurs comptes, comptes joints ou fusionnés sont ouverts au nom du débiteur ainsi que les
+lieux où sont tenus les comptes, à l'exclusion de tout autre renseignement, sans pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 39 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -1823,21 +1810,17 @@ pour qu'ils soient vendus aux enchères publiques.
 La responsabilité du créancier ne peut pas être recherchée sauf si le refus d'autoriser la vente est inspiré par l'intention
 de nuire au débiteur.
 
-Le transfert de la propriété du bien est subordonné au versement de son prix.
+Le transfert de la propriété du bien est subordonné au paiement  de son prix.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 52 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -3947,6 +3930,8 @@ débiteur affectés à la créance.
 
 #### Chapitre Ier : Dispositions communes
 
+#### Chapitre unique : Dispositions communes
+
 ###### Article L621-1
 
 En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Barthélemy et à
@@ -4033,96 +4018,58 @@ pour une durée de trois mois et demi, le cas échéant divisée de manière à 
 	  - Code des procédures civiles d'exécution - art. L412-6 (VD)
 
 
-#### Chapitre II : Dispositions relatives à Saint-Barthélemy
+###### Article L621-5
 
-###### Article L622-1
-
-Pour l'application de l'article L. 412-1 à Saint-Barthélemy, les mots : " effectuée en application de l'article L. 442-4-1 du
-code de la construction et de l'habitation " sont remplacés par les mots : ", le cas échéant, applicable localement ".
+Pour l'application de l'article L. 412-1   à Saint-Barthélemy et à Saint-Martin, les mots : " effectuée en application de
+l'article L. 442-4-1 du code de la construction et de l'habitation " sont remplacés par les mots : ", le cas échéant,
+applicable localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
 	**Créé par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2015-177 du 16 février 2015 - art. 11 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L442-4-1
-	  - Code des procédures civiles d'exécution - art. L412-1
-
-	**Nouveaux textes**:
-
-	  - Code des procédures civiles d'exécution - art. L621-5 (V)
+	  - Code des procédures civiles d'exécution - art. L622-1 (T)
 
 
-###### Article L622-2
+###### Article L621-6
 
-Pour l'application de l'article L. 412-3 à Saint-Barthélemy, les mots : " à l'article 19 de la loi n° 48-1360 du 1er
-septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou
-occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement " et les mots : "
-effectuée en application de l'article L. 442-4-1 du code de la construction et de l'habitation " sont remplacés
+Pour l'application de l'article L. 412-3   à Saint-Barthélemy et à Saint-Martin, les mots : " à l'article 19 de la loi n°
+48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et
+locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement " et les
+mots : " effectuée en application de l'article L. 442-4-1 du code de la construction et de l'habitation " sont remplacés
 respectivement par les mots : " par la réglementation, le cas échéant, applicable localement " et les mots : " la
 réglementation applicable localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
 	**Créé par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2015-177 du 16 février 2015 - art. 11 (V)
-
-	**Cite**:
-
-	  - Code des procédures civiles d'exécution - art. L412-3
-
-	**Nouveaux textes**:
-
-	  - Code des procédures civiles d'exécution - art. L621-6 (V)
+	  - Code des procédures civiles d'exécution - art. L622-2 (T)
 
 
-###### Article L622-3
+###### Article L621-7
 
-Pour l'application de l'article L. 412-5 à Saint-Barthélemy, le mot : " départemental " et les mots : " la loi n° 90-449 du
-31 mai 1990 visant à la mise en œuvre du droit au logement " sont remplacés respectivement par le mot : " territorial " et
-les mots : " la réglementation le cas échéant applicable localement ".
+Pour l'application de l'article L. 412-5   à Saint-Barthélemy et à Saint-Martin, le mot : " départemental " et les mots : "
+la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement " sont remplacés respectivement par le mot : "
+territorial " et les mots : " la réglementation le cas échéant applicable localement ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
 	**Créé par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2015-177 du 16 février 2015 - art. 11 (V)
-
-	**Cite**:
-
-	  - Code des procédures civiles d'exécution - art. L412-5
-
-	**Nouveaux textes**:
-
-	  - Code des procédures civiles d'exécution - art. L621-7 (V)
+	  - Code des procédures civiles d'exécution - art. L622-3 (T)
 
 
 ### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON
