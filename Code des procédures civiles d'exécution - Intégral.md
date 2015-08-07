@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2015-03-15
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -82,13 +82,14 @@ Seuls constituent des titres exécutoires :
 que les accords auxquels ces juridictions ont conféré force exécutoire ;
 
 2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non
-susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables  ;
+susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables ;
 
 3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ;
 
 4° Les actes notariés revêtus de la formule exécutoire ;
 
-5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ;
+5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ou en cas d'homologation de l'accord entre
+le créancier et le débiteur dans les conditions prévues à l' article 1244-4 du code civil ;
 
 6° Les titres délivrés par les personnes morales de droit public qualifiés comme tels par la loi, ou les décisions auxquelles
 la loi attache les effets d'un jugement.
@@ -116,7 +117,7 @@ la loi attache les effets d'un jugement.
 
 	**Modifié par**:
 
-	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 208
 
 
 ###### Article L111-4
