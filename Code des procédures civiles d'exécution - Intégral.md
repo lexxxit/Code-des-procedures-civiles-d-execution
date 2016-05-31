@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-06-01
 
 # Partie législative
 
@@ -5542,6 +5542,151 @@ applicable.
 
 	  - Code de la consommation - art. R334-54 (Ab)
 	  - Code de la consommation - art. R742-35 (V)
+
+
+#### Chapitre V : La procédure simplifiée de recouvrement des petites créances
+
+##### Section 1 : Dispositions générales
+
+###### Article R125-1
+
+La procédure simplifiée de recouvrement des petites créances prévue à l'article 1244-4 du code civil peut être mise en
+œuvre : 
+
+1° Par un huissier de justice du ressort du tribunal de grande instance où le débiteur a son domicile ou sa résidence ; 
+
+2° En cas de pluralité de tribunaux de grande instance dans le département où le débiteur a son domicile ou sa résidence, par
+un huissier de justice de l'un quelconque des ressorts de ces tribunaux. 
+
+Le montant de la créance en principal et intérêts ne doit pas excéder 4 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-2
+
+I.-La lettre recommandée avec demande d'avis de réception par laquelle l'huissier de justice invite le débiteur à participer
+à la procédure simplifiée de recouvrement mentionne : 
+
+1° Le nom et l'adresse de l'huissier de justice mandaté pour mener la procédure ; 
+
+2° Le nom ou la dénomination sociale du créancier, son adresse ou son siège social ; 
+
+3° Le fondement et le montant de la somme due en principal et intérêts, en distinguant les différents éléments de la dette. 
+
+II.-Cette lettre reproduit les dispositions des articles L. 111-2 et L. 111-3 du présent code et des articles 1244-4 et 2238
+du code civil. Elle rappelle à son destinataire qu'il peut accepter ou refuser cette procédure. 
+
+III.-La lettre indique que : 
+
+1° Si son destinataire accepte de participer à la procédure simplifiée de recouvrement, il lui appartient de manifester cet
+accord dans un délai d'un mois à compter de l'envoi de la lettre, soit contre émargement, le cas échéant par toute personne
+spécialement mandatée, soit par l'envoi, par courrier postal ou par voie électronique d'un formulaire d'acceptation ; 
+
+2° Si son destinataire refuse de participer à la procédure, il peut manifester ce refus par la remise ou l'envoi d'un
+formulaire de refus ou par tout autre moyen ; 
+
+3° L'absence de réponse dans le délai d'un mois vaut refus implicite ; 
+
+4° Qu'en cas de refus exprès ou implicite, le créancier pourra saisir le juge afin d'obtenir un titre exécutoire. 
+
+IV.-La lettre et les formulaires qui l'accompagnent sont rédigés conformément à des modèles définis par arrêté du garde des
+sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-3
+
+L'huissier de justice constate, selon le cas, l'accord ou le refus du destinataire de la lettre pour participer à la
+procédure simplifiée de recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-4
+
+Lorsque le destinataire de la lettre accepte de participer à la procédure simplifiée de recouvrement, l'huissier de justice
+lui propose un accord sur le montant et les modalités du paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-5
+
+La procédure simplifiée de recouvrement prend fin lorsque l'huissier de justice constate, par un écrit qui peut être établi
+sur support électronique : 
+
+1° Le refus de participer à la procédure simplifiée de recouvrement, par le destinataire de la lettre, dans les conditions
+prévues au 2° du III de l'article R. 125-2 ; 
+
+2° L'expiration du délai d'un mois, à compter de l'envoi par l'huissier de justice de la lettre invitant le débiteur à
+participer à la procédure, sans qu'un accord soit établi sur le montant et les modalités de paiement ; 
+
+3° Le refus exprès donné par le débiteur, dans le même délai, sur le montant ou les modalités de paiement proposés ; 
+
+4° La conclusion d'un accord, dans le même délai, portant sur le montant et les modalités du paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-6
+
+Au vu de l'accord mentionné au 4° de l'article R. 125-5, l'huissier de justice délivre au créancier mandant un titre
+exécutoire qui récapitule les diligences effectuées en vue de la conclusion de cet accord. Une copie en est remise sans frais
+au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+##### Section 2 : Prévention des conflits d'intérêts
+
+###### Article R125-7
+
+A compter de l'envoi au débiteur de la lettre l'invitant à participer à la procédure simplifiée de recouvrement, aucun
+paiement ne peut avoir lieu avant que l'huissier de justice n'ait constaté l'issue de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+
+
+###### Article R125-8
+
+L'huissier ayant établi le titre exécutoire ne peut être chargé de la mise à exécution forcée du recouvrement de la créance
+qui en fait l'objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 - art. 1
 
 
 ### TITRE III : LA PRÉVENTION  DES DIFFICULTÉS D'EXÉCUTION
