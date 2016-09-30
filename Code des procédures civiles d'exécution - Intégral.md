@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2016-06-01
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -76,20 +76,20 @@ les biens de son débiteur dans les conditions propres à chaque mesure d'exécu
 
 ###### Article L111-3
 
-Seuls constituent des titres exécutoires :
+Seuls constituent des titres exécutoires : 
 
 1° Les décisions des juridictions de l'ordre judiciaire ou de l'ordre administratif lorsqu'elles ont force exécutoire, ainsi
-que les accords auxquels ces juridictions ont conféré force exécutoire ;
+que les accords auxquels ces juridictions ont conféré force exécutoire ; 
 
 2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non
-susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables ;
+susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables ; 
 
-3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ;
+3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ; 
 
-4° Les actes notariés revêtus de la formule exécutoire ;
+4° Les actes notariés revêtus de la formule exécutoire ; 
 
-5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ou en cas d'homologation de l'accord entre
-le créancier et le débiteur dans les conditions prévues à l' article 1244-4 du code civil ;
+5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ou en cas d'accord entre le créancier et le
+débiteur dans les conditions prévues à l'article L. 125-1 ; 
 
 6° Les titres délivrés par les personnes morales de droit public qualifiés comme tels par la loi, ou les décisions auxquelles
 la loi attache les effets d'un jugement.
@@ -117,7 +117,13 @@ la loi attache les effets d'un jugement.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 208
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 105 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 105
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
 
 
 ###### Article L111-4
@@ -702,6 +708,45 @@ des conditions fixées par décret en Conseil d'Etat.
 	**Créé par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+
+
+#### Chapitre V : La procédure simplifiée de recouvrement des petites créances 
+
+
+###### Article L125-1
+
+Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
+du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
+statutaire et inférieure à un montant défini par décret en Conseil d'Etat. 
+
+Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
+d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier de
+justice, suspend la prescription. 
+
+L'huissier de justice qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre,
+sans autre formalité, un titre exécutoire. 
+
+Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
+conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2016-285 du 9 mars 2016 (V)
+	  - Ordonnance n°2016-728 du 2 juin 2016 - art. 1 (V)
+	  - Code civil - art. 2238 (VD)
+	  - Code de commerce - art. A444-28 (V)
+	  - Code de commerce - art. A444-47 (V)
+	  - Code des procédures civiles d'exécution - art. L111-3 (VD)
+	  - Code des procédures civiles d'exécution - art. R125-1 (VD)
+	  - Code des procédures civiles d'exécution - art. R125-2 (VD)
 
 
 ### TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION
@@ -5550,8 +5595,7 @@ applicable.
 
 ###### Article R125-1
 
-La procédure simplifiée de recouvrement des petites créances prévue à l'article 1244-4 du code civil peut être mise en
-œuvre : 
+La procédure simplifiée de recouvrement des petites créances prévue à l'article L125-1 peut être mise en œuvre : 
 
 1° Par un huissier de justice du ressort du tribunal de grande instance où le débiteur a son domicile ou sa résidence ; 
 
@@ -5562,9 +5606,13 @@ Le montant de la créance en principal et intérêts ne doit pas excéder 4 000 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+	  - Décret n°2016-285 du 9 mars 2016 - art. 4
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
 
 
 ###### Article R125-2
@@ -5578,7 +5626,7 @@ I.-La lettre recommandée avec demande d'avis de réception par laquelle l'huiss
 
 3° Le fondement et le montant de la somme due en principal et intérêts, en distinguant les différents éléments de la dette. 
 
-II.-Cette lettre reproduit les dispositions des articles L. 111-2 et L. 111-3 du présent code et des articles 1244-4 et 2238
+II.-Cette lettre reproduit les dispositions des articles L. 111-2, L. 111-3 et L. 125-1 du présent code et de l'article 2238
 du code civil. Elle rappelle à son destinataire qu'il peut accepter ou refuser cette procédure. 
 
 III.-La lettre indique que : 
@@ -5599,9 +5647,15 @@ sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-285 du 9 mars 2016 - art. 1
+	  - Décret n°2016-285 du 9 mars 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 2238 (VD)
+	  - Code des procédures civiles d'exécution - art. L111-2 (V)
+	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
 
 
 ###### Article R125-3
