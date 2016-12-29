@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -11552,8 +11552,7 @@ dispositions propres à chacune d'elles.
 
 Les dispositions particulières relatives aux autres procédures d'exécution mobilière sont énoncées : 
 
-1° Par le décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer pour la saisie des
-navires ; 
+1° Par le code des transports ; 
 
 2° Par le code de l'aviation civile pour la saisie des aéronefs ; 
 
@@ -11568,17 +11567,18 @@ industrielle ;
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-1893 du 28 décembre 2016 - art. 3 (V)
+
 	**Cite**:
 
-	  - Décret n°67-967 du 27 octobre 1967 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Code de la propriété intellectuelle (V)
+	  - Code rural et de la pêche maritime (V)
+	  - Code de la sécurité sociale. (V)
+	  - Code de l'aviation civile (V)
+	  - Code du domaine public fluvial et de la navigation intérieure (V)
+	  - Code des transports (V)
 
 	**Cité par**:
 
