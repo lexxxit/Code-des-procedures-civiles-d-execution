@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -157,6 +157,9 @@ susceptible d'un recours suspensif d'exécution, sans préjudice des disposition
 
 4° Les actes notariés revêtus de la formule exécutoire ; 
 
+4° bis Les accords par lesquels les époux consentent mutuellement à leur divorce par acte sous signature privée contresignée
+par avocats, déposés au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ; 
+
 5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ou en cas d'accord entre le créancier et le
 débiteur dans les conditions prévues à l'article L. 125-1 ; 
 
@@ -186,13 +189,11 @@ la loi attache les effets d'un jugement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 105 (V)
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 105
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
+	  - Code des procédures civiles d'exécution - art. L125-1
 
 
 ###### Article L111-4
@@ -1687,8 +1688,15 @@ Tout créancier d'une pension alimentaire peut se faire payer directement le mon
 de sommes liquides et exigibles envers le débiteur de la pension. Il peut notamment exercer ce droit entre les mains de tout
 débiteur de sommes dues à titre de rémunération, ainsi que de tout dépositaire de fonds. 
 
-La demande en paiement direct est recevable dès qu'une échéance d'une pension alimentaire, fixée par une décision judiciaire
-devenue exécutoire, n'a pas été payée à son terme. 
+La demande en paiement direct est recevable dès qu'une échéance d'une pension alimentaire n'a pas été payée à son terme et
+qu'elle a été fixée par :
+
+1° Une décision judiciaire devenue exécutoire ; 
+
+2° Une convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par
+avocats, déposé au rang des minutes d'un notaire ; 
+
+3° Un acte reçu en la forme authentique par un notaire.
 
 Cette procédure est applicable au recouvrement de la contribution aux charges du mariage prévues par l'article 214 du code
 civil. Elle l'est aussi au recouvrement de la rente prévue par l'article 276 et des subsides prévus par l'article 342 du même
@@ -1696,23 +1704,19 @@ code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cite**:
 
 	  - Code civil - art. 214
-	  - Code civil - art. 276 (V)
-	  - Code civil - art. 342 (V)
+	  - Code civil - art. 276
+	  - Code civil - art. 342
 
 	**Cité par**:
 
@@ -5664,12 +5668,8 @@ applicable.
 
 ###### Article R125-1
 
-La procédure simplifiée de recouvrement des petites créances prévue à l'article L125-1 peut être mise en œuvre : 
-
-1° Par un huissier de justice du ressort du tribunal de grande instance où le débiteur a son domicile ou sa résidence ; 
-
-2° En cas de pluralité de tribunaux de grande instance dans le département où le débiteur a son domicile ou sa résidence, par
-un huissier de justice de l'un quelconque des ressorts de ces tribunaux. 
+La procédure simplifiée de recouvrement des petites créances prévue à l'article L. 125-1 peut-être mise en œuvre par un
+huissier de justice du ressort de la cour d'appel où le débiteur a son domicile ou sa résidence. 
 
 Le montant de la créance en principal et intérêts ne doit pas excéder 4 000 euros.
 
@@ -5678,10 +5678,6 @@ Le montant de la créance en principal et intérêts ne doit pas excéder 4 000 
 	**Modifié par**:
 
 	  - Décret n°2016-285 du 9 mars 2016 - art. 4
-
-	**Cite**:
-
-	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
 
 
 ###### Article R125-2
@@ -7485,46 +7481,40 @@ La demande de paiement cesse de produire effet si l'huissier du créancier en no
 recommandée avec demande d'avis de réception.
 
 Elle prend fin aussi à la demande du débiteur, sur production d'un certificat délivré par un huissier attestant qu'un nouveau
-jugement a supprimé la pension alimentaire ou constatant qu'en vertu des dispositions légales la pension a cessé d'être due.
+jugement ou une nouvelle convention réglant les effets du divorce par consentement mutuel a supprimé la pension alimentaire
+ou constatant qu'en vertu des dispositions légales la pension a cessé d'être due.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-216 du 1 mars 1973 - art. 2 al. 3 et 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 11
 
 
 ###### Article R213-3
 
-Si une nouvelle décision change le montant de la pension alimentaire ou les modalités d'exécution de l'obligation, la demande
-de paiement direct se trouve de plein droit modifiée en conséquence à compter de la notification de la décision modificative
-qui est faite au tiers dans les conditions prévues aux premier et deuxième alinéas de l'article R. 213-1.
+Si une nouvelle convention ou décision change le montant de la pension alimentaire ou les modalités d'exécution de
+l'obligation, la demande de paiement direct se trouve de plein droit modifiée en conséquence à compter de la notification de
+la convention ou de la décision modificative qui est faite au tiers dans les conditions prévues aux premier et deuxième
+alinéas de l'article R. 213-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-216 du 1 mars 1973 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 11
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R213-1 (V)
+	  - Code des procédures civiles d'exécution - art. R213-1
 
 
 ###### Article R213-4
@@ -7673,6 +7663,28 @@ deuxième alinéas de l'article R. 213-1.
 
 	**Cite**:
 
+	  - Code des procédures civiles d'exécution - art. R213-1 (V)
+
+
+###### Article R213-9-1
+
+La convention de divorce par consentement mutuel prévue à l'article 229-1 du code civil peut prévoir que la pension
+alimentaire donne lieu à paiement direct. 
+
+En ce cas, le débiteur de la pension précise l'identité du tiers débiteur saisi chargé du paiement et ses coordonnées. 
+
+L'extrait de la convention constatant l'accord des parties est notifié au tiers débiteur selon les règles prévues aux premier
+et deuxième alinéas de l'article R. 213-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 11
+
+	**Cite**:
+
+	  - Code civil - art. 229-1 (V)
 	  - Code des procédures civiles d'exécution - art. R213-1 (V)
 
 
