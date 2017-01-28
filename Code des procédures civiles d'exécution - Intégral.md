@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -3057,33 +3057,30 @@ locaux.
 
 #### Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel
 
+#### Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel
+
 ###### Article L412-1
 
-Si l'expulsion porte sur un local affecté à l'habitation principale de la personne expulsée ou de tout occupant de son chef,
-elle ne peut avoir lieu qu'à l'expiration d'un délai de deux mois qui suit le commandement, sans préjudice des dispositions
-des articles L. 412-3 à L. 412-7. Toutefois, le juge peut, notamment lorsque les personnes dont l'expulsion a été ordonnée
-sont entrées dans les locaux par voie de fait ou lorsque la procédure de relogement effectuée en application de l'article L.
-442-4-1 du code de la construction et de l'habitation n'a pas été suivie d'effet du fait du locataire, réduire ou supprimer
-ce délai.
+Si l'expulsion porte sur un lieu habité par la personne expulsée ou par  tout occupant de son chef, elle ne peut avoir lieu
+qu'à l'expiration d'un délai de deux mois qui suit le commandement, sans préjudice des dispositions des articles L. 412-3 à
+L. 412-7. Toutefois, le juge peut, notamment lorsque les personnes dont l'expulsion a été ordonnée sont entrées dans les
+locaux par voie de fait ou lorsque la procédure de relogement effectuée en application de l'article L. 442-4-1 du code de la
+construction et de l'habitation n'a pas été suivie d'effet du fait du locataire, réduire ou supprimer ce délai.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 62 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 143
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L442-4-1 (V)
-	  - Code des procédures civiles d'exécution - art. L412-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L442-4-1
+	  - Code des procédures civiles d'exécution - art. L412-3
 
 	**Cité par**:
 
@@ -3126,7 +3123,7 @@ le juge pour une durée n'excédant pas trois mois.
 
 ###### Article L412-3
 
-Le juge peut accorder des délais renouvelables aux occupants de locaux d'habitation ou à usage professionnel, dont
+Le juge peut accorder des délais renouvelables aux occupants de lieux habités ou de locaux  à usage professionnel, dont
 l'expulsion a été ordonnée judiciairement, chaque fois que le relogement des intéressés ne peut avoir lieu dans des
 conditions normales, sans que ces occupants aient à justifier d'un titre à l'origine de l'occupation. 
 
@@ -3143,19 +3140,15 @@ de la construction et de l'habitation n'a pas été suivie d'effet du fait du lo
 	**Cite**:
 
 	  - Loi n°48-1360 du 1er septembre 1948 - art. 19
-	  - Code de la construction et de l'habitation. - art. L442-4-1 (V)
+	  - Code de la construction et de l'habitation. - art. L442-4-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-	**Anciens textes**:
-
-	  - Code de la construction et de l'habitation. - art. L613-1 (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 143
 
 	**Cité par**:
 
@@ -3163,7 +3156,7 @@ de la construction et de l'habitation n'a pas été suivie d'effet du fait du lo
 	  - Code de la construction et de l'habitation. - art. L613-1 (VD)
 	  - Code des procédures civiles d'exécution - art. L412-1 (V)
 	  - Code des procédures civiles d'exécution - art. L412-4 (V)
-	  - Code des procédures civiles d'exécution - art. L412-6 (M)
+	  - Code des procédures civiles d'exécution - art. L412-6 (V)
 	  - Code des procédures civiles d'exécution - art. L412-7 (VD)
 	  - Code des procédures civiles d'exécution - art. L612-4 (VD)
 	  - Code des procédures civiles d'exécution - art. L622-2 (T)
@@ -3241,7 +3234,7 @@ l'article L. 412-3, il est sursis à toute mesure d'expulsion non exécutée à 
 l'unité et les besoins de la famille. 
 
 Toutefois, le juge peut supprimer le bénéfice du sursis prévu au premier alinéa lorsque les personnes dont l'expulsion a été
-ordonnée sont entrées dans les locaux par voie de fait.
+ordonnée sont entrées dans les lieux par voie de fait.
 
 **Liens relatifs à cet article**
 
@@ -3251,7 +3244,7 @@ ordonnée sont entrées dans les locaux par voie de fait.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 25
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 143
 
 	**Cité par**:
 
@@ -3263,7 +3256,7 @@ ordonnée sont entrées dans les locaux par voie de fait.
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L412-3
+	  - Code des procédures civiles d'exécution - art. L412-3 (V)
 
 
 ###### Article L412-7
