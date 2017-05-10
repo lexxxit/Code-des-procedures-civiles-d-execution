@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -3055,8 +3055,6 @@ locaux.
 	  - Code des procédures civiles d'exécution - art. R451-1 (V)
 
 
-#### Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel
-
 #### Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel
 
 ###### Article L412-1
@@ -4579,6 +4577,98 @@ Le présent code n'est pas applicable dans les Terres australes et antarctiques 
 
 ### TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE
 
+#### Chapitre Ier : Le créancier et le titre exécutoire
+
+##### Section 1 : Dispositions générales
+
+###### Article R111-1
+
+Le juge de l'exécution du tribunal de grande instance de Paris est seul compétent pour statuer sur la demande d'autorisation
+prévue à l'article L. 111-1-1 et sur les contestations relatives aux mesures conservatoires et d'exécution forcée mobilières
+qu'il autorise, ainsi que pour connaître des procédures de saisie immobilière qu'il autorise, à l'exception des procédures
+d'exécution forcée sur les immeubles situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. L111-1 (V)
+
+
+###### Article R111-2
+
+La requête est présentée en double exemplaire. Elle est motivée et comporte l'indication précise des pièces invoquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+
+###### Article R111-3
+
+L'ordonnance sur requête est motivée.
+
+Elle est exécutoire au seul vu de la minute.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+
+###### Article R111-4
+
+Le créancier procède à l'exécution dans les conditions propres à chaque mesure, définies dans le présent code. 
+
+Lorsque l'ordonnance porte sur une mesure conservatoire, les articles R. 511-4 à R. 511-8 sont en outre applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. R511-4 (V)
+
+
+###### Article R111-5
+
+L'huissier de justice procède à l'exécution sur présentation de l'autorisation du juge. Lorsque la mesure d'exécution donne
+lieu à dénonciation à l'Etat étranger, elle est accompagnée d'une copie de la requête et de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+
+##### Section 2 : Les contestations
+
+###### Article R111-6
+
+S'il n'est pas fait droit à la requête, appel peut être interjeté. Le délai d'appel est de quinze jours. L'appel est formé,
+instruit et jugé comme en matière gracieuse.
+
+S'il est fait droit à la requête, tout intéressé peut en référer au juge qui a rendu l'ordonnance, lequel peut modifier ou
+rétracter celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 37
+
+
 #### Chapitre II : Les biens saisissables
 
 ###### Article R112-1
@@ -5286,7 +5376,7 @@ Le sursis à exécution n'est accordé que s'il existe des moyens sérieux d'ann
 à la cour.
 
 L'auteur d'une demande de sursis à exécution manifestement abusive peut être condamné par le premier président à une amende
-civile d'un montant maximum de 3 000 €, sans préjudice des dommages-intérêts qui pourraient être réclamés.
+civile d'un montant maximum de 10 000 euros, sans préjudice des dommages-intérêts qui pourraient être réclamés.
 
 La décision du premier président n'est pas susceptible de pourvoi.
 
@@ -5298,7 +5388,7 @@ La décision du premier président n'est pas susceptible de pourvoi.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 23
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 	**Cité par**:
 
@@ -6245,26 +6335,22 @@ auxquelles l'huissier de justice a procédé et des difficultés d'exécution.
 Toute décision de refus de l'autorité compétente est motivée. Le défaut de réponse dans un délai de deux mois équivaut à un
 refus.
 
-Ce refus est porté à la connaissance du procureur de la République et du créancier par l'huissier de justice.
+Ce refus est porté à la connaissance du créancier par l'huissier de justice.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 50 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
-
 	**Cité par**:
 
 	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
 	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 38
 
 
 ### TITRE VI : DISPOSITIONS PARTICULIÈRES  À CERTAINES PERSONNES ET À CERTAINS BIENS
@@ -6943,25 +7029,18 @@ Les contestations sont portées devant le juge de l'exécution du lieu où demeu
 ###### Article R211-11
 
 A peine d'irrecevabilité, les contestations relatives à la saisie sont formées dans le délai d'un mois à compter de la
-dénonciation de la saisie au débiteur. Sous la même sanction, elles sont dénoncées le même jour, par lettre recommandée avec
-demande d'avis de réception, à l'huissier de justice qui a procédé à la saisie.
+dénonciation de la saisie au débiteur. Sous la même sanction, elles sont dénoncées le même jour ou, au plus tard, le premier
+jour ouvrable suivant, par lettre recommandée avec demande d'avis de réception, à l'huissier de justice qui a procédé à la
+saisie.
 
-L'auteur de la contestation en informe le tiers saisi par lettre simple et en remet une copie, à peine de caducité de
-l'assignation, au greffe du juge de l'exécution au plus tard le jour de l'audience.
+L'auteur de la contestation en informe le tiers saisi par lettre simple. Il remet une copie de l'assignation, à peine de
+caducité de celle-ci , au greffe du juge de l'exécution au plus tard le jour de l'audience.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 66 al. 1 et 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
 
 	**Cité par**:
 
@@ -6969,6 +7048,11 @@ l'assignation, au greffe du juge de l'exécution au plus tard le jour de l'audie
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code des procédures civiles d'exécution - art. R211-1 (V)
 	  - Code des procédures civiles d'exécution - art. R211-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 39
+	  - Décret n°2017-892 du 6 mai 2017 - art. 45
 
 
 ###### Article R211-12
@@ -7615,21 +7699,17 @@ l'article R. 93 du code de procédure pénale.
 ###### Article R213-8
 
 Le créancier d'aliments qui, de mauvaise foi, fait usage de la procédure de paiement direct peut être condamné à une amende
-civile d'un maximum de 3 000 €.
+civile d'un maximum de 10 000 euros.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-216 du 1 mars 1973 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
 ###### Article R213-9
@@ -11255,24 +11335,20 @@ vendues ;
 
 ###### Article R232-7
 
-A peine d'irrecevabilité, la contestation est dénoncée le même jour, par lettre recommandée avec demande d'avis de réception,
-à l'huissier de justice qui a procédé à la saisie.
+A peine d'irrecevabilité, la contestation est dénoncée le même jour ou, au plus tard, le premier jour ouvrable suivant, par
+lettre recommandée avec demande d'avis de réception, à l'huissier de justice qui a procédé à la saisie.
 
 L'auteur de la contestation en informe le tiers saisi par lettre simple.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 183-1 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-892 du 6 mai 2017 - art. 45
 
 
 ###### Article R232-8
@@ -11555,35 +11631,33 @@ dispositions propres à chacune d'elles.
 
 ###### Article R241-1
 
-Les dispositions particulières relatives aux autres procédures d'exécution mobilière sont énoncées : 
+Les dispositions particulières relatives aux autres procédures d'exécution mobilière sont énoncées :
 
-1° Par le code des transports ; 
+1° Par le code des transports ;
 
-2° Par le code de l'aviation civile pour la saisie des aéronefs ; 
+2° Par le code de l'aviation civile pour la saisie des aéronefs ;
 
-3° Par le code du domaine public fluvial et de la navigation intérieure pour la saisie des bateaux ; 
+3° Par le code de la propriété intellectuelle pour la saisie en matière de droit de propriété littéraire, artistique et
+industrielle ;
 
-4° Par le code de la propriété intellectuelle pour la saisie en matière de droit de propriété littéraire, artistique et
-industrielle ; 
+4° Par le code rural et de la pêche maritime pour les oppositions à tiers détenteur des mutualités sociales agricoles ;
 
-5° Par le code rural et de la pêche maritime pour les oppositions à tiers détenteur des mutualités sociales agricoles ; 
-
-6° Par le code de la sécurité sociale pour les oppositions à tiers détenteur des caisses de sécurité sociale.
+5° Par le code de la sécurité sociale pour les oppositions à tiers détenteur des caisses de sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-1893 du 28 décembre 2016 - art. 3 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 40
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle (V)
-	  - Code rural et de la pêche maritime (V)
-	  - Code de la sécurité sociale. (V)
-	  - Code de l'aviation civile (V)
-	  - Code du domaine public fluvial et de la navigation intérieure (V)
-	  - Code des transports (V)
+	  - Code de la propriété intellectuelle
+	  - Code rural
+	  - Code de la sécurité sociale.
+	  - Code de l'aviation civile
+	  - Code du domaine public fluvial et de la navigation intérieure
+	  - Code des transports
 
 	**Cité par**:
 
@@ -12299,7 +12373,7 @@ l'exécution pour voir statuer sur les modalités de la procédure ;
 la publicité foncière ; 
 
 6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter
-de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci   au fichier immobilier ; 
+de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au fichier immobilier ; 
 
 7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ; 
 
@@ -12321,7 +12395,7 @@ juridictionnelle s'il remplit les conditions de ressources prévues par la loi n
 juridique et le décret n° 91-1266 du 19 décembre 1991 portant application de cette loi ; 
 
 13° L'indication, si le débiteur est une personne physique, que s'il s'estime en situation de surendettement, il a la faculté
-de saisir la commission de surendettement des particuliers instituée par l'article L. 331-1 du code de la consommation. 
+de saisir la commission de surendettement des particuliers instituée par l'article L. 712-1 du code de la consommation. 
 
 Si le créancier saisissant agit en vertu d'une transmission, à quelque titre que ce soit, de la créance contenue dans le
 titre exécutoire fondant les poursuites, le commandement vise l'acte de transmission à moins que le débiteur n'en ait été
@@ -12339,7 +12413,7 @@ que les sommes réclamées sont supérieures à celles qui sont dues au créanci
 
 	  - Loi n°91-647 du 10 juillet 1991
 	  - Décret n°91-1266 du 19 décembre 1991
-	  - Code de la consommation - art. L331-1
+	  - Code de la consommation - art. L712-1 (V)
 
 	**Codifié par**:
 
@@ -12347,7 +12421,7 @@ que les sommes réclamées sont supérieures à celles qui sont dues au créanci
 
 	**Modifié par**:
 
-	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+	  - Décret n°2017-892 du 6 mai 2017 - art. 41
 
 	**Cité par**:
 
@@ -12390,8 +12464,8 @@ du bien.
 
 ###### Article R321-5
 
-Le créancier poursuivant fait signifier un commandement de payer valant saisie au débiteur principal. L'acte comporte la
-mention que ce commandement est délivré au tiers détenteur. 
+Le créancier poursuivant fait signifier un commandement de payer au débiteur principal. L'acte comporte la mention que le
+commandement de payer valant saisie prévu à l'alinéa ci-après est délivré au tiers détenteur.
 
 Le commandement de payer valant saisie est signifié à la diligence du créancier poursuivant au tiers détenteur. Il comporte
 les mentions énumérées à l'article R. 321-3. Toutefois, l'avertissement prévu au 4° est remplacé par la sommation d'avoir à
@@ -12401,27 +12475,23 @@ du code civil.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 17 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 42
+
 	**Cite**:
 
-	  - Code civil - art. 2463 (M)
-	  - Code civil - art. 2464 (M)
-	  - Code des procédures civiles d'exécution - art. R321-3 (V)
+	  - Code civil - art. 2463
+	  - Code civil - art. 2464
+	  - Code des procédures civiles d'exécution - art. R321-3
 
 
 ##### Section 2 : La publication de l'acte de saisie
@@ -13406,26 +13476,25 @@ tenu de la situation du bien, des conditions économiques du marché et des dili
 
 ###### Article R322-16
 
-La demande du débiteur tendant à la suspension de la procédure de saisie immobilière en raison de sa situation de
-surendettement est formée dans les conditions prévues par l'article R. 331-11-1 du code de la consommation.
+La demande tendant à la suspension de la procédure de saisie immobilière en raison de la situation de surendettement du
+débiteur est formée conformément aux 
+dispositions de l'article L. 721-4 du code de la consommation
+, dans les conditions prévues à l'article R. 721-5 de ce code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 50 al. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-892 du 6 mai 2017 - art. 43
 
 	**Cite**:
 
-	  - Code de la consommation - art. R331-11-1 (M)
+	  - Code de la consommation - art. L721-4
+	  - Code de la consommation - art. R721-5 (V)
 
 	**Cité par**:
 
@@ -13730,25 +13799,22 @@ juge spécialement motivée.
 ###### Article R322-28
 
 La vente forcée ne peut être reportée que pour un cas de force majeure ou sur la demande de la commission de surendettement
-formée en application des articles L. 331-3-1 ou L. 331-5 du code de la consommation.
+formée en application des articles L. 722-4 ou L. 721-7 du code de la consommation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 61 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-892 du 6 mai 2017 - art. 44
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-3-1 (M)
+	  - Code de la consommation - art. L712-7 (V)
+	  - Code de la consommation - art. L722-4 (V)
 
 
 ###### Article R322-29
@@ -17352,8 +17418,8 @@ La copie de l'acte de conversion est signifiée au débiteur.
 A compter de cette signification, le débiteur dispose d'un délai de quinze jours pour contester l'acte de conversion devant
 le juge de l'exécution du lieu où il demeure. Ce délai est prescrit à peine d'irrecevabilité.
 
-Sous la même sanction, la contestation est dénoncée le même jour, par lettre recommandée avec demande d'avis de réception, à
-l'huissier de justice qui a procédé à la saisie.
+Sous la même sanction, la contestation est dénoncée le même jour ou, au plus tard, le premier jour ouvrable suivant, par
+lettre recommandée avec demande d'avis de réception, à l'huissier de justice qui a procédé à la saisie.
 
 L'auteur de la contestation en informe le tiers saisi par lettre simple.
 
@@ -17366,21 +17432,17 @@ Cette déclaration doit être constatée par écrit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 242 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
-
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 45
 
 
 ###### Article R523-10
@@ -18475,32 +18537,6 @@ au Trésor public.
 	**Créé par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 - art.
-
-
-###### Article R612-7
-
-Au 13° de l'article R. 321-3, la référence à l'article L. 331-1 du code de la consommation s'entend de la référence à
-l'article L. 334-1 de ce même code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 46
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-1
-	  - Code de la consommation - art. L334-1
-	  - Code des procédures civiles d'exécution - art. R321-3
 
 
 ###### Article R612-8
