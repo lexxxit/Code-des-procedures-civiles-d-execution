@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-09-01
 
 # Partie législative
 
@@ -4906,30 +4906,6 @@ de la mesure.
 	  - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-###### Article R121-3
-
-Sauf dispositions contraires, les décisions du juge de l'exécution statuant sur la compétence ne sont pas susceptibles de
-contredit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 9-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 (V)
-
-	**Créé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-891 du 6 mai 2017 - art. 6
-
-
 ###### Article R121-4
 
 Les règles de compétence prévues au présent code sont d'ordre public.
@@ -5318,25 +5294,24 @@ mesure d'administration judiciaire.
 
 ###### Article R121-20
 
-Le délai d'appel est de quinze jours à compter de la notification de la décision.
+Le délai d'appel est de quinze jours à compter de la notification de la décision. 
 
-L'appel est formé, instruit et jugé selon les règles applicables à la procédure avec représentation obligatoire.
-
-La cour d'appel statue à bref délai.
+L'appel est formé, instruit et jugé selon les règles applicables à la procédure prévue à l'article 905 du code de procédure
+civile ou à la procédure à jour fixe.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 29 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-891 du 6 mai 2017 - art. 42
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 905 (VD)
 
 	**Cité par**:
 
@@ -5922,26 +5897,22 @@ Toutefois, elle peut prendre effet dès le jour de son prononcé si elle assorti
 Pour l'application de l'article L. 131-3, l'incompétence est relevée d'office par le juge saisi d'une demande en liquidation
 d'astreinte. 
 
-Si ce n'est lorsqu'elle émane d'une cour d'appel, la décision du juge peut faire l'objet d'un contredit formé dans les
-conditions prévues par le code de procédure civile.
+Si ce n'est lorsqu'elle émane d'une cour d'appel, la décision du juge peut faire l'objet d'un appel formé dans les conditions
+prévues par le code de procédure civile.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 52 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-891 du 6 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. L131-3 (V)
+	  - Code des procédures civiles d'exécution - art. L131-3
 
 	**Cité par**:
 
@@ -12139,8 +12110,8 @@ L'examen des contestations et des demandes incidentes ne suspend pas le cours de
 ###### Article R311-7
 
 Les jugements sont, sauf disposition contraire, susceptibles d'appel. L'appel est formé dans un délai de quinze jours à
-compter de la notification qui en est faite. Sous réserve des dispositions de l'article R. 322-19, l'appel est jugé selon la
-procédure prévue à l'article 905 du code de procédure civile. 
+compter de la notification qui en est faite. Sous réserve des dispositions de       l'article R. 322-19 et sauf s'il est
+recouru à la procédure à jour fixe, l'appel est jugé selon la procédure prévue à l'article 905 du code de procédure civile. 
 
 La notification des décisions est faite par voie de signification. Toutefois, lorsqu'en vertu d'une disposition particulière
 le juge de l'exécution statue par ordonnance rendue en dernier ressort, sa décision est notifiée par le greffe simultanément
@@ -12151,24 +12122,20 @@ Les jugements statuant sur les contestations ou les demandes incidentes ne sont 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 8 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-891 du 6 mai 2017 - art. 42
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 905 (Ab)
-	  - Code des procédures civiles d'exécution - art. R311-11 (V)
-	  - Code des procédures civiles d'exécution - art. R321-21 (V)
-	  - Code des procédures civiles d'exécution - art. R322-19 (V)
+	  - Code de procédure civile - art. 905
+	  - Code des procédures civiles d'exécution - art. R311-11
+	  - Code des procédures civiles d'exécution - art. R321-21
+	  - Code des procédures civiles d'exécution - art. R322-19
 
 	**Cité par**:
 
@@ -18864,6 +18831,10 @@ code sont applicables à Wallis-et-Futuna :
 
 1° Le livre Ier, à l'exception du second alinéa de l'article R. 112-4, des articles R. 162-2, R. 162-3 et R. 162-7 ; 
 
+Les articles R. 121-20 et R. 131-2 dans leur rédaction résultant du décret n° 2017-891 du 6 mai 2017. 
+
+Les dispositions du décret n° 2017-891 du 6 mai 2017 abrogeant l'article R. 121-3 sont applicables à Wallis-et-Futuna. 
+
 2° Le livre II, à l'exception du 4° de l'article R. 211-3 et des 3°, 5° et 6° de l'article R. 241-1 ; 
 
 3° Le livre IV, à l'exception du 2° de l'article R. 451-1 et de l'article R. 451-4 ; 
@@ -18873,30 +18844,27 @@ les immeubles et les fonds de commerce et R. 533-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-216 du 1 mars 1973 - art. 10 (Ab)
-	  - Décret n°92-755 du 31 juillet 1992 - art. 303-1 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-783 du 30 mai 2012 - art.
+	  - Décret n°2017-891 du 6 mai 2017 - art. 51
 
 	**Cite**:
 
-	  - Code des procédures civiles d'exécution - art. R112-4 (V)
-	  - Code des procédures civiles d'exécution - art. R162-2 (V)
-	  - Code des procédures civiles d'exécution - art. R211-3 (VT)
-	  - Code des procédures civiles d'exécution - art. R241-1 (V)
-	  - Code des procédures civiles d'exécution - art. R451-1 (V)
-	  - Code des procédures civiles d'exécution - art. R451-4 (V)
-	  - Code des procédures civiles d'exécution - art. R523-3 (V)
-	  - Code des procédures civiles d'exécution - art. R532-1 (V)
-	  - Code des procédures civiles d'exécution - art. R533-2 (V)
+	  - Code des procédures civiles d'exécution - art. R112-4
+	  - Code des procédures civiles d'exécution - art. R121-20 (VD)
+	  - Code des procédures civiles d'exécution - art. R131-2 (VD)
+	  - Code des procédures civiles d'exécution - art. R162-2
+	  - Code des procédures civiles d'exécution - art. R211-3
+	  - Code des procédures civiles d'exécution - art. R241-1
+	  - Code des procédures civiles d'exécution - art. R451-1
+	  - Code des procédures civiles d'exécution - art. R451-4
+	  - Code des procédures civiles d'exécution - art. R523-3
+	  - Code des procédures civiles d'exécution - art. R532-1
+	  - Code des procédures civiles d'exécution - art. R533-2
 
 
 ###### Article R641-2
